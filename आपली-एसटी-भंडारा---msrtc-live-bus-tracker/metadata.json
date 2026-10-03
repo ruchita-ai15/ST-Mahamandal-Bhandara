@@ -1,0 +1,6 @@
+{
+  "name": "आपली एसटी भंडारा - MSRTC Live Bus Tracker",
+  "description": "Real-time MSRTC ST bus tracking, timetable, live delay notifications, voice announcements, and booking for Bhandara District.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
